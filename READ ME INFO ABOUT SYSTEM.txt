@@ -1,0 +1,10 @@
+Admin  Info
+
+Email:admin@yahoo.com
+Password:admin
+
+Default assword of creating an User
+
+password = 123 
+
+
